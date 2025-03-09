@@ -15,7 +15,7 @@ public class N1954 {
 				num++;
 				if(a==(N-1)) {
 					for(int b=0; b<N; b++) {
-						arr=[]
+						
 					}
 				}
 			}
